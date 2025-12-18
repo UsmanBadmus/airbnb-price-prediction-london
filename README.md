@@ -54,4 +54,4 @@ The analysis was developed using Python 3 and requires the following libraries:
 - `.gitignore` – Git ignore configuration
 
 ## Author
-MSc Data Science – Coursework Submission
+USMAN BADMUS - MSc Data Science Coursework Submission
